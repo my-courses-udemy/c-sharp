@@ -1,0 +1,10 @@
+Init process
+Process in progress at 23/01/2024 00:59:58
+Process in progress at 23/01/2024 01:00:03
+Process in progress at 23/01/2024 01:00:08
+Process in progress at 23/01/2024 01:00:13
+Process in progress at 23/01/2024 01:00:18
+Process in progress at 23/01/2024 01:00:23
+Process in progress at 23/01/2024 01:00:28
+Process in progress at 23/01/2024 01:00:33
+Final process
